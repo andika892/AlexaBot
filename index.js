@@ -15,4 +15,6 @@ client.once("ready", () => {
     console.log(`Bot online: ${client.user.tag}`);
 });
 
+console.log(process.env.TOKEN); // TAMBAHIN INI
+
 client.login(process.env.TOKEN);
