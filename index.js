@@ -13,4 +13,4 @@ client.once("ready", () => {
     console.log(`Bot online: ${client.user.tag}`);
 });
 
-client.login(process.env.TOKEN);
+client.login("MTUwNzM0MTk2NTMyNTUwMDUyOA.GcNATr._g0_pXY29rMyFuz19POZ0Y-BBCrH0TQvh3RO3Y");
